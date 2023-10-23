@@ -1,0 +1,2 @@
+# loyiha-fayllari
+lohihalarni taxrirlash
